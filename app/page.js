@@ -13,12 +13,13 @@ export default function Home() {
           height={38}
           priority
         />
-        <ol>
-          <li>
-            Get started by editing <code>app/page.js</code>.
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+        <<ol>
+  <li>
+    Bienvenido, Alejandro 👋 ¡Ya tienes tu CRM en línea!
+  </li>
+  <li>¡Ahora puedes captar leads y hacer seguimiento automático! 🚀</li>
+</ol>
+
 
         <div className={styles.ctas}>
           <a
