@@ -13,7 +13,7 @@ export default function Home() {
           height={38}
           priority
         />
-        <<ol>
+        <ol>
   <li>
     Bienvenido, Alejandro 👋 ¡Ya tienes tu CRM en línea!
   </li>
