@@ -14,10 +14,8 @@ export default function Home() {
           priority
         />
         <ol>
-  <li>
-    Bienvenido, Alejandro 👋 ¡Ya tienes tu CRM en línea!
-  </li>
-  <li>¡Ahora puedes captar leads y hacer seguimiento automático! 🚀</li>
+  <li>Bienvenido nuevamente al CRM 💼</li>
+  <li>Despliegue limpio activado 🚀</li>
 </ol>
 
 
